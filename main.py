@@ -37,7 +37,7 @@ def song_cli():
     song_num_input = input("Please enter the song you would like to view the lyrics of: ")
     #print(search_results[song_num])
     song_num = -1
-    while song_num = -1
+    while song_num == -1
         try:
             song_num = int(song_num_input)
         except ValueError:
